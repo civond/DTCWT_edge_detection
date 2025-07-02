@@ -3,7 +3,7 @@
 <img src="figures/merged.jpg" width=800px>
 
 <div>
-    In this project, I followed the methodology that  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165168409003107">Kare et al. (2010) </a>used to detect the strong edges from an ultrasound image. </br></br>
+    In this project, I followed the methodology that  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165168409003107">Kare et al. (2010) </a>used to extract the strong edges from an ultrasound image. I then compared it to the Canny edge detection algorithm applied to the raw image, which the DTCWT method appears to outperform by a significant margin.</br></br>
 </div>
 
 The dual-tree complex wavelet transform (DTCWT) has several advantages over the discrete wavelet transform (DWT) in that it possesses:
